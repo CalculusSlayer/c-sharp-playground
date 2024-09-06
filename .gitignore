@@ -1,0 +1,54 @@
+# .gitignore for C# projects
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Ll]ogs/
+[Ll]og/
+[Ll]ogging/
+[Tt]estResults/
+[Tt]ests/
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxbundle
+*.appxupload
+*.dSYM/
+*.vs/
+
+# Uncomment if you have tasks that create the documentation
+#doc/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.suo
+*.ncb
+*.opendb
+*.plg
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.log
+*.tlog
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
